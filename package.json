@@ -6,11 +6,16 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "lint": "tslint -p ./tsconfig.json",
+    "postinstall": "scripts/postinstall.sh"
   },
   "dependencies": {
+    "@eva-design/eva": "^1.2.0",
     "react": "16.9.0",
-    "react-native": "0.61.4"
+    "react-native": "0.61.4",
+    "react-native-dark-mode": "^0.2.1",
+    "react-native-ui-kitten": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
@@ -23,6 +28,7 @@
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.56.0",
     "react-test-renderer": "16.9.0",
+    "tslint": "^5.20.1",
     "typescript": "^3.6.3"
   },
   "jest": {
