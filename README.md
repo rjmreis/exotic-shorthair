@@ -1,4 +1,4 @@
-# rn-starter
+# rn-starter :smile_cat:
 React Native boilerplate with everything needed to kickstart a new mobile application.
 
 ## What's included
