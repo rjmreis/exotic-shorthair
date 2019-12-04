@@ -1,10 +1,13 @@
 # rn-starter
+React Native boilerplate with everything needed to kickstart a new mobile application.
 
 ## What's included
 
 - React Native CLI typescript template
-- React Native UI Kitten
 - Well structured application code
+- UI Kitten
+- Redux for state management
+- Async storage
 
 ## Getting Started
 
