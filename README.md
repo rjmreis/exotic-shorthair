@@ -1,4 +1,4 @@
-# exotic-shorthair :smile_cat:
+# exotic-shorthair :smiley_cat:
 React Native boilerplate with everything needed to kickstart a new mobile application.
 
 ## What's included
