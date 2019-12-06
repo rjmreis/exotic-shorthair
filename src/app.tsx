@@ -5,7 +5,7 @@ import { useDarkMode } from 'react-native-dark-mode';
 import { EvaIconsPack } from '@ui-kitten/eva-icons';
 import { Counter } from '~/screens/counter';
 
-export const AppComponent = () => {
+export const App = () => {
   const isDarkMode = useDarkMode();
 
   return (

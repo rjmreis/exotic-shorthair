@@ -16,7 +16,7 @@ const mapDispatchToProps = {
   reduxLogin: login,
 };
 
-export const connector = connect(mapStateToProps, mapDispatchToProps);
-export type Props = ConnectedProps<typeof connector>;
+const connector = connect(mapStateToProps, mapDispatchToProps);
 
+export type Props = ConnectedProps<typeof connector>;
 export const Counter = connector(CounterComponent);
