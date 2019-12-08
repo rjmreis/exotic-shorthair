@@ -1,3 +1,5 @@
+https://travis-ci.org/rjmreis/exotic-shorthair.svg?branch=master
+
 # exotic-shorthair :smiley_cat:
 React Native boilerplate with everything needed to kickstart a new mobile application.
 
