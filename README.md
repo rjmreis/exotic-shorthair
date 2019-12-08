@@ -19,7 +19,7 @@ https://facebook.github.io/react-native/docs/getting-started
 
 ```bash
 # Clone the repo
-git clone git@github.com:rjmreis/rn-starter.git
+git clone git@github.com:rjmreis/exotic-shorthair.git
 
 # Navigate to folder and Install dependencies
 cd rn-starter && yarn
