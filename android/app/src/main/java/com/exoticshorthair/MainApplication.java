@@ -1,4 +1,4 @@
-package com.rnstarter;
+package com.exoticshorthair;
 
 import android.app.Application;
 import android.content.Context;

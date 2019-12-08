@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* rnstarterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rnstarterTests.m */; };
+		00E356F31AD99517003FC87E /* ExoticShorthairTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ExoticShorthairTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* rnstarterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rnstarterTests.m */; };
-		47C5405035733CCF8F889699 /* libPods-rnstarter-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A01A809733039939E733AA9B /* libPods-rnstarter-tvOS.a */; };
-		915F15B491796E622FFCAF36 /* libPods-rnstarter-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0ECDBB1419613FEF6FFE048B /* libPods-rnstarter-tvOSTests.a */; };
-		AE574678611A9209CF56C34A /* libPods-rnstarter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F7348685B5642E5B1DD2BDD3 /* libPods-rnstarter.a */; };
-		D125A475C5670FE568476AB3 /* libPods-rnstarterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 576112829660B82423115558 /* libPods-rnstarterTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* ExoticShorthairTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ExoticShorthairTests.m */; };
+		47C5405035733CCF8F889699 /* libPods-ExoticShorthair-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A01A809733039939E733AA9B /* libPods-ExoticShorthair-tvOS.a */; };
+		915F15B491796E622FFCAF36 /* libPods-ExoticShorthair-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0ECDBB1419613FEF6FFE048B /* libPods-ExoticShorthair-tvOSTests.a */; };
+		AE574678611A9209CF56C34A /* libPods-ExoticShorthair.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F7348685B5642E5B1DD2BDD3 /* libPods-ExoticShorthair.a */; };
+		D125A475C5670FE568476AB3 /* libPods-ExoticShorthairTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 576112829660B82423115558 /* libPods-ExoticShorthairTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = rnstarter;
+			remoteInfo = ExoticShorthair;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "rnstarter-tvOS";
+			remoteInfo = "ExoticShorthair-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* rnstarterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rnstarterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* ExoticShorthairTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExoticShorthairTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* rnstarterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rnstarterTests.m; sourceTree = "<group>"; };
-		0E1089261D0D01D252A44D1C /* Pods-rnstarterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarterTests.debug.xcconfig"; path = "Target Support Files/Pods-rnstarterTests/Pods-rnstarterTests.debug.xcconfig"; sourceTree = "<group>"; };
-		0ECDBB1419613FEF6FFE048B /* libPods-rnstarter-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnstarter-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* rnstarter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rnstarter.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rnstarter/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = rnstarter/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* ExoticShorthairTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExoticShorthairTests.m; sourceTree = "<group>"; };
+		0E1089261D0D01D252A44D1C /* Pods-ExoticShorthairTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthairTests.debug.xcconfig"; path = "Target Support Files/Pods-ExoticShorthairTests/Pods-ExoticShorthairTests.debug.xcconfig"; sourceTree = "<group>"; };
+		0ECDBB1419613FEF6FFE048B /* libPods-ExoticShorthair-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ExoticShorthair-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* ExoticShorthair.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExoticShorthair.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ExoticShorthair/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ExoticShorthair/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = rnstarter/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rnstarter/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rnstarter/main.m; sourceTree = "<group>"; };
-		2AC77A293ABE23D7AF62A5C7 /* Pods-rnstarter-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rnstarter-tvOSTests/Pods-rnstarter-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* rnstarter-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rnstarter-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* rnstarter-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rnstarter-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		576112829660B82423115558 /* libPods-rnstarterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnstarterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8805EB72C256C670CBC1630B /* Pods-rnstarter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter.debug.xcconfig"; path = "Target Support Files/Pods-rnstarter/Pods-rnstarter.debug.xcconfig"; sourceTree = "<group>"; };
-		9138BC84B54D6A3F35261798 /* Pods-rnstarter-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rnstarter-tvOS/Pods-rnstarter-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		A01A809733039939E733AA9B /* libPods-rnstarter-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnstarter-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5BA3B5B4B02AAFEC4A856C0 /* Pods-rnstarter-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rnstarter-tvOS/Pods-rnstarter-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		A789467AF81FD93A8C09A00F /* Pods-rnstarter-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rnstarter-tvOSTests/Pods-rnstarter-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		CA828AEF20A57CA0AB58A5A1 /* Pods-rnstarter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarter.release.xcconfig"; path = "Target Support Files/Pods-rnstarter/Pods-rnstarter.release.xcconfig"; sourceTree = "<group>"; };
-		EA49EA038C539E68455001F4 /* Pods-rnstarterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnstarterTests.release.xcconfig"; path = "Target Support Files/Pods-rnstarterTests/Pods-rnstarterTests.release.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ExoticShorthair/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ExoticShorthair/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ExoticShorthair/main.m; sourceTree = "<group>"; };
+		2AC77A293ABE23D7AF62A5C7 /* Pods-ExoticShorthair-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair-tvOSTests/Pods-ExoticShorthair-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* ExoticShorthair-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ExoticShorthair-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* ExoticShorthair-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ExoticShorthair-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		576112829660B82423115558 /* libPods-ExoticShorthairTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ExoticShorthairTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8805EB72C256C670CBC1630B /* Pods-ExoticShorthair.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair.debug.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair/Pods-ExoticShorthair.debug.xcconfig"; sourceTree = "<group>"; };
+		9138BC84B54D6A3F35261798 /* Pods-ExoticShorthair-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair-tvOS/Pods-ExoticShorthair-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		A01A809733039939E733AA9B /* libPods-ExoticShorthair-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ExoticShorthair-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5BA3B5B4B02AAFEC4A856C0 /* Pods-ExoticShorthair-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair-tvOS/Pods-ExoticShorthair-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		A789467AF81FD93A8C09A00F /* Pods-ExoticShorthair-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair-tvOSTests/Pods-ExoticShorthair-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CA828AEF20A57CA0AB58A5A1 /* Pods-ExoticShorthair.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthair.release.xcconfig"; path = "Target Support Files/Pods-ExoticShorthair/Pods-ExoticShorthair.release.xcconfig"; sourceTree = "<group>"; };
+		EA49EA038C539E68455001F4 /* Pods-ExoticShorthairTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExoticShorthairTests.release.xcconfig"; path = "Target Support Files/Pods-ExoticShorthairTests/Pods-ExoticShorthairTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F7348685B5642E5B1DD2BDD3 /* libPods-rnstarter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnstarter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7348685B5642E5B1DD2BDD3 /* libPods-ExoticShorthair.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ExoticShorthair.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D125A475C5670FE568476AB3 /* libPods-rnstarterTests.a in Frameworks */,
+				D125A475C5670FE568476AB3 /* libPods-ExoticShorthairTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE574678611A9209CF56C34A /* libPods-rnstarter.a in Frameworks */,
+				AE574678611A9209CF56C34A /* libPods-ExoticShorthair.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47C5405035733CCF8F889699 /* libPods-rnstarter-tvOS.a in Frameworks */,
+				47C5405035733CCF8F889699 /* libPods-ExoticShorthair-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				915F15B491796E622FFCAF36 /* libPods-rnstarter-tvOSTests.a in Frameworks */,
+				915F15B491796E622FFCAF36 /* libPods-ExoticShorthair-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* rnstarterTests */ = {
+		00E356EF1AD99517003FC87E /* ExoticShorthairTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* rnstarterTests.m */,
+				00E356F21AD99517003FC87E /* ExoticShorthairTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = rnstarterTests;
+			path = ExoticShorthairTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* rnstarter */ = {
+		13B07FAE1A68108700A75B9A /* ExoticShorthair */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = rnstarter;
+			name = ExoticShorthair;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				F7348685B5642E5B1DD2BDD3 /* libPods-rnstarter.a */,
-				A01A809733039939E733AA9B /* libPods-rnstarter-tvOS.a */,
-				0ECDBB1419613FEF6FFE048B /* libPods-rnstarter-tvOSTests.a */,
-				576112829660B82423115558 /* libPods-rnstarterTests.a */,
+				F7348685B5642E5B1DD2BDD3 /* libPods-ExoticShorthair.a */,
+				A01A809733039939E733AA9B /* libPods-ExoticShorthair-tvOS.a */,
+				0ECDBB1419613FEF6FFE048B /* libPods-ExoticShorthair-tvOSTests.a */,
+				576112829660B82423115558 /* libPods-ExoticShorthairTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* rnstarter */,
+				13B07FAE1A68108700A75B9A /* ExoticShorthair */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* rnstarterTests */,
+				00E356EF1AD99517003FC87E /* ExoticShorthairTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				873B430FAC6D1BE4B4A15E1A /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* rnstarter.app */,
-				00E356EE1AD99517003FC87E /* rnstarterTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* rnstarter-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* rnstarter-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* ExoticShorthair.app */,
+				00E356EE1AD99517003FC87E /* ExoticShorthairTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* ExoticShorthair-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* ExoticShorthair-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		873B430FAC6D1BE4B4A15E1A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8805EB72C256C670CBC1630B /* Pods-rnstarter.debug.xcconfig */,
-				CA828AEF20A57CA0AB58A5A1 /* Pods-rnstarter.release.xcconfig */,
-				9138BC84B54D6A3F35261798 /* Pods-rnstarter-tvOS.debug.xcconfig */,
-				A5BA3B5B4B02AAFEC4A856C0 /* Pods-rnstarter-tvOS.release.xcconfig */,
-				A789467AF81FD93A8C09A00F /* Pods-rnstarter-tvOSTests.debug.xcconfig */,
-				2AC77A293ABE23D7AF62A5C7 /* Pods-rnstarter-tvOSTests.release.xcconfig */,
-				0E1089261D0D01D252A44D1C /* Pods-rnstarterTests.debug.xcconfig */,
-				EA49EA038C539E68455001F4 /* Pods-rnstarterTests.release.xcconfig */,
+				8805EB72C256C670CBC1630B /* Pods-ExoticShorthair.debug.xcconfig */,
+				CA828AEF20A57CA0AB58A5A1 /* Pods-ExoticShorthair.release.xcconfig */,
+				9138BC84B54D6A3F35261798 /* Pods-ExoticShorthair-tvOS.debug.xcconfig */,
+				A5BA3B5B4B02AAFEC4A856C0 /* Pods-ExoticShorthair-tvOS.release.xcconfig */,
+				A789467AF81FD93A8C09A00F /* Pods-ExoticShorthair-tvOSTests.debug.xcconfig */,
+				2AC77A293ABE23D7AF62A5C7 /* Pods-ExoticShorthair-tvOSTests.release.xcconfig */,
+				0E1089261D0D01D252A44D1C /* Pods-ExoticShorthairTests.debug.xcconfig */,
+				EA49EA038C539E68455001F4 /* Pods-ExoticShorthairTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* rnstarterTests */ = {
+		00E356ED1AD99517003FC87E /* ExoticShorthairTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "rnstarterTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ExoticShorthairTests" */;
 			buildPhases = (
 				09E3B4F0A9D5D39FF1C5018A /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -215,14 +215,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = rnstarterTests;
-			productName = rnstarterTests;
-			productReference = 00E356EE1AD99517003FC87E /* rnstarterTests.xctest */;
+			name = ExoticShorthairTests;
+			productName = ExoticShorthairTests;
+			productReference = 00E356EE1AD99517003FC87E /* ExoticShorthairTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* rnstarter */ = {
+		13B07F861A680F5B00A75B9A /* ExoticShorthair */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rnstarter" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ExoticShorthair" */;
 			buildPhases = (
 				A273D43255CC9226881F608C /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -235,14 +235,14 @@
 			);
 			dependencies = (
 			);
-			name = rnstarter;
-			productName = rnstarter;
-			productReference = 13B07F961A680F5B00A75B9A /* rnstarter.app */;
+			name = ExoticShorthair;
+			productName = ExoticShorthair;
+			productReference = 13B07F961A680F5B00A75B9A /* ExoticShorthair.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* rnstarter-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* ExoticShorthair-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnstarter-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ExoticShorthair-tvOS" */;
 			buildPhases = (
 				2752C00F10A0E1ACC40DB751 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -255,14 +255,14 @@
 			);
 			dependencies = (
 			);
-			name = "rnstarter-tvOS";
-			productName = "rnstarter-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* rnstarter-tvOS.app */;
+			name = "ExoticShorthair-tvOS";
+			productName = "ExoticShorthair-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* ExoticShorthair-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* rnstarter-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* ExoticShorthair-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnstarter-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ExoticShorthair-tvOSTests" */;
 			buildPhases = (
 				25D09A89E535F8EFC6AD3E18 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "rnstarter-tvOSTests";
-			productName = "rnstarter-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* rnstarter-tvOSTests.xctest */;
+			name = "ExoticShorthair-tvOSTests";
+			productName = "ExoticShorthair-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* ExoticShorthair-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -303,7 +303,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rnstarter" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ExoticShorthair" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -316,10 +316,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* rnstarter */,
-				00E356ED1AD99517003FC87E /* rnstarterTests */,
-				2D02E47A1E0B4A5D006451C7 /* rnstarter-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* rnstarter-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* ExoticShorthair */,
+				00E356ED1AD99517003FC87E /* ExoticShorthairTests */,
+				2D02E47A1E0B4A5D006451C7 /* ExoticShorthair-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* ExoticShorthair-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -388,7 +388,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnstarterTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ExoticShorthairTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -410,7 +410,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnstarter-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ExoticShorthair-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -432,7 +432,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnstarter-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ExoticShorthair-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -468,7 +468,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnstarter-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ExoticShorthair-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,7 +520,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* rnstarterTests.m in Sources */,
+				00E356F31AD99517003FC87E /* ExoticShorthairTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,7 +546,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* rnstarterTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* ExoticShorthairTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,12 +555,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* rnstarter */;
+			target = 13B07F861A680F5B00A75B9A /* ExoticShorthair */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* rnstarter-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* ExoticShorthair-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -572,7 +572,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = rnstarter;
+			path = ExoticShorthair;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -580,14 +580,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0E1089261D0D01D252A44D1C /* Pods-rnstarterTests.debug.xcconfig */;
+			baseConfigurationReference = 0E1089261D0D01D252A44D1C /* Pods-ExoticShorthairTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = rnstarterTests/Info.plist;
+				INFOPLIST_FILE = ExoticShorthairTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -597,17 +597,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rnstarter.app/rnstarter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ExoticShorthair.app/ExoticShorthair";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EA49EA038C539E68455001F4 /* Pods-rnstarterTests.release.xcconfig */;
+			baseConfigurationReference = EA49EA038C539E68455001F4 /* Pods-ExoticShorthairTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = rnstarterTests/Info.plist;
+				INFOPLIST_FILE = ExoticShorthairTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -617,18 +617,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rnstarter.app/rnstarter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ExoticShorthair.app/ExoticShorthair";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8805EB72C256C670CBC1630B /* Pods-rnstarter.debug.xcconfig */;
+			baseConfigurationReference = 8805EB72C256C670CBC1630B /* Pods-ExoticShorthair.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = rnstarter/Info.plist;
+				INFOPLIST_FILE = ExoticShorthair/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -636,18 +636,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = rnstarter;
+				PRODUCT_NAME = ExoticShorthair;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA828AEF20A57CA0AB58A5A1 /* Pods-rnstarter.release.xcconfig */;
+			baseConfigurationReference = CA828AEF20A57CA0AB58A5A1 /* Pods-ExoticShorthair.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = rnstarter/Info.plist;
+				INFOPLIST_FILE = ExoticShorthair/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -655,14 +655,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = rnstarter;
+				PRODUCT_NAME = ExoticShorthair;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9138BC84B54D6A3F35261798 /* Pods-rnstarter-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 9138BC84B54D6A3F35261798 /* Pods-ExoticShorthair-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -673,14 +673,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rnstarter-tvOS/Info.plist";
+				INFOPLIST_FILE = "ExoticShorthair-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.rnstarter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ExoticShorthair-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -690,7 +690,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A5BA3B5B4B02AAFEC4A856C0 /* Pods-rnstarter-tvOS.release.xcconfig */;
+			baseConfigurationReference = A5BA3B5B4B02AAFEC4A856C0 /* Pods-ExoticShorthair-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -701,14 +701,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rnstarter-tvOS/Info.plist";
+				INFOPLIST_FILE = "ExoticShorthair-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.rnstarter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ExoticShorthair-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -718,7 +718,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A789467AF81FD93A8C09A00F /* Pods-rnstarter-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = A789467AF81FD93A8C09A00F /* Pods-ExoticShorthair-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -728,24 +728,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rnstarter-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ExoticShorthair-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.rnstarter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ExoticShorthair-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rnstarter-tvOS.app/rnstarter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ExoticShorthair-tvOS.app/ExoticShorthair-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2AC77A293ABE23D7AF62A5C7 /* Pods-rnstarter-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 2AC77A293ABE23D7AF62A5C7 /* Pods-ExoticShorthair-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -755,17 +755,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rnstarter-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ExoticShorthair-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.rnstarter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ExoticShorthair-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rnstarter-tvOS.app/rnstarter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ExoticShorthair-tvOS.app/ExoticShorthair-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -872,7 +872,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "rnstarterTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ExoticShorthairTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -881,7 +881,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rnstarter" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ExoticShorthair" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -890,7 +890,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnstarter-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ExoticShorthair-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -899,7 +899,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnstarter-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ExoticShorthair-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -908,7 +908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rnstarter" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ExoticShorthair" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
