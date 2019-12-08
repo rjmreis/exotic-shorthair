@@ -1,3 +1,12 @@
 language: node_js
 node_js:
-  - "8"
+  - node
+  - lts/*
+cache:
+  directories:
+    - ~/.npm
+before_script:
+  - npm install -g npm@latest
+script:
+  - npm ci
+  - npx jest --ci
