@@ -1,15 +1,15 @@
 [![Build Status](https://travis-ci.org/rjmreis/exotic-shorthair.svg?branch=master)](https://travis-ci.org/rjmreis/exotic-shorthair)
 
 # exotic-shorthair :smiley_cat:
-React Native boilerplate with everything needed to kickstart a new mobile application.
+React Native boilerplate with everything needed to kickstart a new mobile application with a well structured application code.
 
 ## What's included
 
 - React Native CLI typescript template
-- Well structured application code
 - UI Kitten
-- Redux for state management
-- Async storage
+- Redux
+- React Navigation
+- Styled Components
 
 ## Getting Started
 
