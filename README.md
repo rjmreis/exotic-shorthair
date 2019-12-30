@@ -38,3 +38,20 @@ Android
 ```
 yarn android
 ```
+
+## Project Structure
+```
+.
+├── android             * Android project and build
+├── ios                 * iOS project and build
+├── jest                * Jest setup
+├── scripts             * Project scripts
+├── src/
+|   ├── __tests__/      * Jest tests
+|   ├── components/     * Shared components
+|   ├── screens/        * Screen components
+|   ├── state/          * Redux state
+|   ├── app.tsx         * Root React App
+|   └── navigation.tsx  * React Navigation
+└── ...                 * Boilerplate files
+```
