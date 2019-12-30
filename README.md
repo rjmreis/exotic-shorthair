@@ -55,3 +55,7 @@ yarn android
 |   └── navigation.tsx  * React Navigation
 └── ...                 * Boilerplate files
 ```
+
+## License
+
+[MIT License](LICENSE)
