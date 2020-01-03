@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/rjmreis/exotic-shorthair.svg?branch=master)](https://travis-ci.org/rjmreis/exotic-shorthair)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # exotic-shorthair :smiley_cat:
 React Native boilerplate with everything needed to kickstart a new mobile application with a well structured application code.
